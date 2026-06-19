@@ -1,1 +1,1 @@
-# 1A-2026-JG
+Use o comando `print()` para mostrar algo.
